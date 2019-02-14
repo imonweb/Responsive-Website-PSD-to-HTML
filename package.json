@@ -1,0 +1,33 @@
+{
+  "name": "responsive-website",
+  "version": "1.0.0",
+  "description": "Responsive Website PSD to HTML",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imonweb/Responsive-Website-PSD-to-HTML.git"
+  },
+  "author": "Imon Dela Rosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imonweb/Responsive-Website-PSD-to-HTML/issues"
+  },
+  "homepage": "https://github.com/imonweb/Responsive-Website-PSD-to-HTML#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-count": "^1.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "jquery": "^3.3.1",
+    "merge-stream": "^1.0.1"
+  }
+}
